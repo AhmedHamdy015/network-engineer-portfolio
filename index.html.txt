@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Hamdy | Network Engineer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Ahmed Hamdy Abdelati</h1>
+    <p>Network Engineer</p>
+
+    <div class="buttons">
+        <a href="Ahmed_Hamdy_CV.pdf" download class="btn">📄 Download CV</a>
+        <a href="https://linkedin.com" class="btn">LinkedIn</a>
+    </div>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        Network Engineer with hands-on experience in routing, switching,
+        enterprise networking, troubleshooting, and network security.
+    </p>
+</section>
+
+<section>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Cisco Routing & Switching</li>
+        <li>TCP/IP, LAN/WAN</li>
+        <li>VLANs, STP, EtherChannel</li>
+        <li>OSPF, EIGRP, BGP</li>
+        <li>DHCP, DNS, NAT/PAT</li>
+        <li>Wireshark, GNS3, Packet Tracer</li>
+        <li>FortiGate & VPN Fundamentals</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+
+    <div class="project">
+        <h3>Enterprise Multi-VLAN Network</h3>
+        <p>Designed and configured VLANs, OSPF, DHCP and ACLs.</p>
+    </div>
+
+    <div class="project">
+        <h3>Campus Infrastructure Design</h3>
+        <p>Built a scalable enterprise infrastructure with redundancy.</p>
+    </div>
+
+    <div class="project">
+        <h3>Network Security Lab</h3>
+        <p>Implemented VPN, ACL and segmentation policies.</p>
+    </div>
+
+</section>
+
+<section>
+    <h2>Certifications</h2>
+    <ul>
+        <li>CCNA</li>
+        <li>JNCIA-Junos</li>
+        <li>JNCIA-DC</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Ahmed Hamdy © 2026</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
